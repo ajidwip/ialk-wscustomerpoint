@@ -1,0 +1,14 @@
+D:\ProjectTes\backup project\Customer Point\WcfCustomerPoint\WcfCustomerPoint\bin\WcfCustomerPoint.dll.config
+D:\ProjectTes\backup project\Customer Point\WcfCustomerPoint\WcfCustomerPoint\bin\WcfCustomerPoint.dll
+D:\ProjectTes\backup project\Customer Point\WcfCustomerPoint\WcfCustomerPoint\bin\WcfCustomerPoint.pdb
+D:\ProjectTes\backup project\Customer Point\WcfCustomerPoint\WcfCustomerPoint\obj\Release\WcfCustomerPoint.csproj.CoreCompileInputs.cache
+D:\ProjectTes\backup project\Customer Point\WcfCustomerPoint\WcfCustomerPoint\obj\Release\WcfCustomerPoint.dll
+D:\ProjectTes\backup project\Customer Point\WcfCustomerPoint\WcfCustomerPoint\obj\Release\WcfCustomerPoint.pdb
+D:\ProjectTes\backup project\Customer Point\WcfCustomerPoint\WcfCustomerPoint\obj\Release\WcfCustomerPoint.csprojResolveAssemblyReference.cache
+E:\Projects\Customer Point\WcfCustomerPoint\WcfCustomerPoint\bin\WcfCustomerPoint.dll.config
+E:\Projects\Customer Point\WcfCustomerPoint\WcfCustomerPoint\bin\WcfCustomerPoint.dll
+E:\Projects\Customer Point\WcfCustomerPoint\WcfCustomerPoint\bin\WcfCustomerPoint.pdb
+E:\Projects\Customer Point\WcfCustomerPoint\WcfCustomerPoint\obj\Release\WcfCustomerPoint.csprojAssemblyReference.cache
+E:\Projects\Customer Point\WcfCustomerPoint\WcfCustomerPoint\obj\Release\WcfCustomerPoint.csproj.CoreCompileInputs.cache
+E:\Projects\Customer Point\WcfCustomerPoint\WcfCustomerPoint\obj\Release\WcfCustomerPoint.dll
+E:\Projects\Customer Point\WcfCustomerPoint\WcfCustomerPoint\obj\Release\WcfCustomerPoint.pdb
